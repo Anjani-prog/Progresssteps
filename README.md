@@ -4,4 +4,4 @@
 
 React native sample code
 
-![Demo](/demo.mp4)
+![Demo](./demo.mp4)
